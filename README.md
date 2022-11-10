@@ -4,6 +4,7 @@
 you can download the weight of our network on baidu cloud disk here:
 链接：https://pan.baidu.com/s/1OvrrUe2aD17N2nc8hQTZ1Q?pwd=wlqz 
 提取码：wlqz
+
 where fspconv80.pth is the weight of Focal3DDet, best.pt is the best yolov5 weight and BiseNetv2 is a segmentation weight.
 
 You can download the data set here. 
