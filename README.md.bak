@@ -6,11 +6,7 @@ you can download the weight of our network on baidu cloud disk here:
 提取码：wlqz
 where fspconv80.pth is the weight of Focal3DDet, best.pt is the best yolov5 weight and BiseNetv2 is a segmentation weight.
 
-You can download the data set here. 
-链接：https://pan.baidu.com/s/1XIC_iD4aaY-kxBssfBZcJA?pwd=cssj 
-提取码：cssj
-
-We rename image_02 with image_2 as the input image and rename velodyne_points with velodyne.
+You can download the data set here. We rename image_02 with image_2 as the input image and rename velodyne_points with velodyne.
 You need to organize the data like this:
 -data
     -testing
